@@ -1,5 +1,9 @@
 package figuras;
-
+/**
+ * Clase para crear objetos de tipo Circulo y calcular su area y perimetro
+ * @author Carlos
+ * @version 1.0
+ */
 public class Circulo {
 
     private double radio;
